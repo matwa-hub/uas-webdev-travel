@@ -51,12 +51,6 @@ Website ini memungkinkan:
 
 ---
 
-## 📸 Results (Screenshots)
-![Halaman User](screenshots/frontend_home.png)
-![Dashboard Admin](screenshots/backend_dashboard.png)
-
----
-
 ## 🚀 Cara Menjalankan Project
 
 ### 1. Clone repository
