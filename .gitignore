@@ -1,0 +1,61 @@
+# ================================
+# PHP & Composer
+# ================================
+vendor/
+composer.lock
+
+# ================================
+# Node.js (jika frontend pakai npm/yarn)
+# ================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ================================
+# Environment & Config
+# ================================
+.env
+.env.*
+*.env.local
+
+# ================================
+# Cache & Logs
+# ================================
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# ================================
+# IDE / Editor
+# ================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ================================
+# SQL Temporary / Dump Files
+# ================================
+*.sql~
+*.sql.gz
+*.dump
+*.bak
+
+# ================================
+# Build / Dist (jika ada frontend build)
+# ================================
+dist/
+build/
+
+# ================================
+# OS specific
+# ================================
+.DS_Store
+ehthumbs.db
+Icon?
