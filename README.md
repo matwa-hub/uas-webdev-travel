@@ -1,5 +1,12 @@
 # 🌐 UAS Web Development — Travel Website (PHP + MySQL)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
 ## 📌 Deskripsi
 Proyek ini adalah tugas **UAS Web Development** berupa website **Travel** berbasis **PHP dan MySQL**.  
 Struktur project terdiri dari **Frontend**, **Backend (Admin Panel)**, dan **Database SQL**.  
@@ -53,9 +60,7 @@ Website ini memungkinkan:
 
 ## 🚀 Cara Menjalankan Project
 
-### 1. Clone repository
+1. **Clone repository**
 ```bash
-git clone https://github.com/matwa-hub/uas-webdev-travel.git
-cd uas-webdev-travel
-
-####
+    git clone https://github.com/matwa-hub/uas-webdev-travel.git
+    cd uas-webdev-travel
